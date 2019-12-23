@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(187, 17, 122)
+}
+h2 {
+    color: violet
+}
+.navidad {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: red
+}
+#imagen1 {
+    float: right
+}
+#css1 {
+    color: blueviolet
+}
